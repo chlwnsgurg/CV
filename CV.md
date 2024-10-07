@@ -51,25 +51,17 @@ Graduated
 
 Oct 2024
 
-*Participant*
-
 **FHE School(**Homomorphic Encryption Research Program**)**, Seoul National University x CRYPTOLAB
 
 Apr 2024 ~ Jun 2024
-
-*Participant*
 
 **Qiskit Fall Fest(**Quantum Computing workshops and challenges**)**, IBM
 
 Nov 2023
 
-*Participant*
-
 **International Olympiad in Informatics(IOI) Summer School**, ****Korean Institute of Information Scientists and Engineers
 
 Jul 2019 ~ Aug 2019
-
-*Trainee*
 
 ## Work Experience
 
